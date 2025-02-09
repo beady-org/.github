@@ -1,6 +1,6 @@
 ## Hey, this is us 👋
 
-[beadycover.png]
+[[beadycover.png]]
 
 Beady is an innovative **Python and JavaScript framework** designed for developing **business applications** with a modular and scalable approach. At its core, Beady introduces the concept of **"beads"**—small, independent, and reusable components that can be combined to build powerful enterprise solutions.  
 
